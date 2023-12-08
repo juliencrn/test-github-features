@@ -1,8 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: "Bug report \U0001F41E"
+about: Something is broken and you have a reliable reproduction? Let us know here.
+  For questions, please use "Question" below.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
